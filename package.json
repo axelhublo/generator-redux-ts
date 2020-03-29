@@ -1,5 +1,5 @@
 {
-  "name": "generator-redux",
+  "name": "generator-redux-ts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,13 @@
     "generators"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "redux",
+    "react",
+    "generator"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Axel Mathieu <mathieuaxel1995@hotmail.fr>",
+  "license": "MIT",
   "dependencies": {
     "yeoman-generator": "^4.4.0"
   }
